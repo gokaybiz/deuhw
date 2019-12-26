@@ -1,0 +1,22 @@
+.urun-kart {
+    width: 18rem !important;
+    margin: 0 0 55px 15px !important;
+}
+
+.urun-kart :hover {
+    cursor: pointer;
+}
+
+.urun-kart img {
+    width: 254px;
+    height: 142px;
+}
+
+#mansetAnasayfa img {
+    height: 400px;
+}
+
+.card-img-top {
+    width: 1048px;
+    height: 586px;
+}
